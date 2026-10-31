@@ -1,6 +1,6 @@
-# Al-Noor Academy website
+# Al-Ilm Noor Academy website
 
-A single-page website for Al-Noor Academy (online Quran & Islamic Studies).
+A single-page website for Al-Ilm Noor Academy (online Quran & Islamic Studies).
 Everything is in `index.html`. No build step is needed: open it in a browser,
 or upload it to any static host (Netlify, GitHub Pages, Vercel, cPanel…).
 
@@ -18,7 +18,7 @@ At the bottom of `index.html`, in the `<script>` block under **SETTINGS**:
 - `CONTACT_EMAIL`: where form messages go.
 
 Also search-and-replace the placeholder phone `+1 (000) 000-0000` / `10000000000`
-(used for tel: and WhatsApp links) and `info@alnooracademy.com`.
+(used for tel: and WhatsApp links) and `info@alilmnooracademy.com`.
 
 ## Receiving form submissions
 By default both forms open the visitor's email app with the details filled in,
